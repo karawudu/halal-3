@@ -23,7 +23,7 @@ const client = new Client({
 });
 
 const TOKEN =
-    "MTQ1MzA2MTkwMDk5NTY1Nzk1MQ.G2W88J.Z1X8ru5fDSPcJ-Ax5GRfikDQT74b1twNeOeH0k";
+    "MTQ1MzA2MTkwMDk5NTY1Nzk1MQ.GJRS-g.VozcbC5dxpkbMdb4KqhXftA4M2d8HFrUvqPBd4";
 const ticketData = new Map();
 
 // Rétablissement du GIF de chargement uniquement
